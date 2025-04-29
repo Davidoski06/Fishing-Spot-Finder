@@ -65,19 +65,5 @@ Vai su:
 
 http://localhost/fishing-spot-finder/index.html
 
-
-Struttura del progetto
-
-fishing-spot-finder/
-index.html --> Front-end con mappa e form
-results.php   -->     Back-end per filtraggio + meteo
-.env.php    -->       File con API Key OpenWeather
-data/
-    spots.json      Elenco spot reali in Italia
-    icons/
-         lago.png       Marker per lago
-         fiume.png      Marker per fiume
-         mare.png       Marker per mare
-
 Tecnologie usate: HTML, CSS, JavaScript, PHP, JSON, Google Maps API, OpenWeather API
 
