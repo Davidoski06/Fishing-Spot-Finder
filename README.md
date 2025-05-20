@@ -40,10 +40,10 @@ C:\xampp\htdocs\fishing-spot-finder
 
 Apri il file .env.php e inserisci la tua chiave di OpenWeather:
 
-
+"
 <?php
 define('OPENWEATHER_API_KEY', 'API-KEY_OPENWEATHER');
-?>
+?> "
 
 index.html
 
