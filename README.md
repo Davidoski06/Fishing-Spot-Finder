@@ -1,7 +1,5 @@
 # Fishing-Spot-Finder
 
-Fishing Spot Finder
-
 Fishing Spot Finder è un'applicazione web che ti aiuta a trovare i migliori spot di pesca in Italia, con informazioni su:
 - Pesci presenti
 - Condizioni meteo in tempo reale
