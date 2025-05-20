@@ -12,14 +12,13 @@ Funzionalità principali
 - Filtra per provincia e tipo di pesce
 - Visualizza i risultati sulla mappa Google
 - Mostra le condizioni meteo aggiornate (OpenWeather API)
-- Marker personalizzati per lago, fiume, mare
 - Risultati testuali con nome spot, pesci, meteo e recensioni
 
 
 
 Requisiti
 
-- PHP (funziona in XAMPP, MAMP o altri server locali)
+- PHP
 - Connessione Internet per usare le API
 - API Key personali per:
   - OpenWeather
